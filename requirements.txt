@@ -1,0 +1,17 @@
+# Web framework for the backend
+Flask==3.0.3
+
+# Machine learning library for training and using the model
+scikit-learn==1.7.1
+
+# Data handling for the training script
+pandas==2.2.3
+
+# Numerical operations
+numpy==2.1.1
+
+# NLP library for text processing
+nltk==3.9.1
+
+# For saving and loading the trained model
+joblib==1.4.2
